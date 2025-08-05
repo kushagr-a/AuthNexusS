@@ -1,2 +1,2 @@
 console.log
-Hello from Kushagra
+("Hello from Kushagra")
